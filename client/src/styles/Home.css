@@ -1,0 +1,12 @@
+/* src/styles/Home.css */
+.text-center {
+    text-align: center;
+}
+
+.bg-gray-100 {
+    background-color: #f3f4f6;
+}
+
+.py-10 {
+    padding: 10px;
+}
